@@ -24,10 +24,11 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
-    "browsersync": "0.0.1-security",
-    "html-validate": "^4.0.2",
-    "mkdir": "0.0.2",
+    "browser-sync": "^2.26.13",
+    "html-validate": "^3.5.0",
+    "mkdirp": "^1.0.4",
     "node-sass": "^5.0.0",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "onchange": "^7.1.0"
   }
 }
